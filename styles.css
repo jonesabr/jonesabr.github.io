@@ -23,8 +23,8 @@ table {
   border: 3px solid gray;
   border-collapse: collapse;
   background-color: white;
-  width: 50%;
-/*  width: 600px;*/
+/*  width: 50%;*/
+  width: 500px;
 }
 th {
   background-color: lightgray;
