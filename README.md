@@ -1,4 +1,4 @@
 # jonesabr.github.io
-Repositório privado.\r\n
-Caia fora!\r\n
+Repositório privado.
+Caia fora!
 Cão feroz.
